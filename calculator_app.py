@@ -22,7 +22,7 @@ with c3:
 
 with c4:
     if st.button('division(/)'):
-        st.text(f'{a}/{b}={b/a}')
+        st.text(f'{a}/{b}={a/b}')
 
 
 
@@ -32,4 +32,5 @@ st.text('-arik')
 if st.button('info'):
     st.text('this is sample project made by arik')
     st.markdown('[About Arik](https://profilepy-3t8ez4hcjvvmwsczqmxnbz.streamlit.app/)')
+
 
