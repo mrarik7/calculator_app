@@ -31,4 +31,5 @@ with c4:
 st.text('-arik')
 if st.button('info'):
     st.text('this is sample project made by arik')
-    st.markdown('[more sample app like that](https://profilepy-3t8ez4hcjvvmwsczqmxnbz.streamlit.app/)')
+    st.markdown('[About Arik](https://profilepy-3t8ez4hcjvvmwsczqmxnbz.streamlit.app/)')
+
